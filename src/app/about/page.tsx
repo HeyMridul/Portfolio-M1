@@ -53,12 +53,12 @@ const AboutPage = () => {
                         </a>{" "}
                         for IDE.
                     </span>
-                    <span>
+                    {/* <span>
                         I am a blogger. I have two blogs, about{" "}
                         <Link href={"/blogs"} className=" font-bold capitalize text-lg lg:text-3xl">
                             Open Science and Docker as a DevOps technology
                         </Link>
-                    </span>
+                    </span> */}
                     <span>
                         If you feel interest in what I do, drop a visit to my{" "}
                         <Link href={"/projects"} className=" font-bold capitalize text-lg lg:text-3xl">
